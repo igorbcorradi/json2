@@ -1,0 +1,22 @@
+Sueli De Oliveira Mazzo
+
+{
+    "curso": [
+        {
+             "id": 1,
+             "titulo": "Lógica de Programação"
+        },
+        {
+            "id": 2,
+            "titulo": "HTML5"
+        },
+        {
+            "id": 3,
+            "titulo": "CSS3"
+        },
+        {
+            "id": 4,
+            "titulo": "Bootstrap"
+        }
+    ]
+}
